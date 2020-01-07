@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Basic_Synth
+namespace Ymir_SoundEngine
 {
     public partial class BasicSynth : Form
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Basic_Synth
+namespace Ymir_SoundEngine
 {
     static class Program
     {

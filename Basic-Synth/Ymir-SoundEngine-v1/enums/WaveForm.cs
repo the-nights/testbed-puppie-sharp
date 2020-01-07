@@ -1,5 +1,5 @@
 ﻿
-namespace Basic_Synth
+namespace Ymir_SoundEngine_v1.Enums
 {
     public enum WaveForm
     {
