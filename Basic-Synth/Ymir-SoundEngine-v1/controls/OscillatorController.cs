@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using Ymir_SoundEngine_v1.Enums;
 
-namespace Basic_Synth
+namespace Ymir_SoundEngine
 {
     class OscillatorController : GroupBox
     {

@@ -1,4 +1,4 @@
-﻿namespace Basic_Synth
+﻿namespace Ymir_SoundEngine
 {
     partial class BasicSynth
     {
@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.oscillatorController2 = new Basic_Synth.OscillatorController();
-            this.oscillatorController1 = new Basic_Synth.OscillatorController();
-            this.oscillatorController3 = new Basic_Synth.OscillatorController();
+            this.oscillatorController2 = new Ymir_SoundEngine.OscillatorController();
+            this.oscillatorController1 = new Ymir_SoundEngine.OscillatorController();
+            this.oscillatorController3 = new Ymir_SoundEngine.OscillatorController();
             this.SuspendLayout();
             // 
             // oscillatorController2

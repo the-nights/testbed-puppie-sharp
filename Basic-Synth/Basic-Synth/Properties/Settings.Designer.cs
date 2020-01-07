@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Basic_Synth.Properties
+namespace Ymir_SoundEngine.Properties
 {
 
 
