@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Ymir_SoundEngine_v1
 {
-    class Program
+    class Variables
     {
-        static void Main(string[] args)
-        {
-        }
+        public const int SAMPLE_RATE = 44100;
+        public const short BITS_PER_SAMPLE = 16;
     }
 }
